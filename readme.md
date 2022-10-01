@@ -1,7 +1,7 @@
 # ENV
 
 env is a simple package to get enviorment variables from env files. you can also
-provide default value as fallback we env is not found in env files
+provide default value as fallback when env variable is not found in env files
 
 ## Basic Usage
 
